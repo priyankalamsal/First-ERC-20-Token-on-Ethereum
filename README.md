@@ -51,8 +51,7 @@ Functions like `transfer`, `approve`, and `transferFrom` are required.
      **1000000 × 10^18 = 1000000000000000000000000**
 7. Click **Deploy**
 
----
+Transaction Details - **https://etherscan.io/tx/0x0f9eea9b7f5220eae68a0da6ad3a06f102fd484a5d4a3033420b582e89d13111**
 
-## 🧪 Usage Examples
 
-### 1. Check Balance
+https://repo.sourcify.dev/1/0x541Df2273B2d9Fa2fF3C2733F141b0b9650eFF10
